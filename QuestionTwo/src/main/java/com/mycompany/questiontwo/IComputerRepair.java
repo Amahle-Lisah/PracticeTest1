@@ -1,3 +1,51 @@
+/*
+* CODE ATTRIBUTIONS 
+ * Title: Classes and Objects in Java
+ * Author: GeeksForGeeks
+ * Date: 28/09/2026
+ * Version: 1
+ * Availability: https://www.geeksforgeeks.org/java/classes-objects-java/
+ *
+ * Title: Inheritance in Java
+ * Author: GeeksForGeeks
+ * Date: 28/09/2026
+ * Version: 1
+ * Availability: https://www.geeksforgeeks.org/java/inheritance-in-java/
+ *
+ * Title: Java Interface
+ * Author: W3Schools
+ * Date: 28/09/2026
+ * Version: 1
+ * Availability: https://www.w3schools.com/java/java_interface.asp
+ *
+ * Title: Java Encapsulation
+ * Author: W3Schools
+ * Date: 28/09/2026
+ * Version: 1
+ * Availability: https://www.w3schools.com/java/java_encapsulation.asp
+ *
+ * Title: Java OOP 
+ * Author: W3Schools
+ * Date: 28/09/2026
+ * Version: 1
+ * Availability: https://www.w3schools.com/java/java_oop.asp
+ * 
+ * Title: Java Abstration
+ * Author: W3Schools
+ * Date: 28/09/2026
+ * Version: 1
+ * Availability: https://www.w3schools.com/Java/java_abstract.asp
+ *
+ * Title: 1D Array
+ * Author: W3Schools
+ * Date: 28/09/2026
+ * Version: 1
+ * Availability: https://www.geeksforgeeks.org/java/one-dimensional-array-in-java/
+
+ */
+
+
+
 package com.mycompany.questiontwo;
 
 /**
