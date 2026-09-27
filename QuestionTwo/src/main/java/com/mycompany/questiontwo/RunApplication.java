@@ -1,10 +1,9 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
 package com.mycompany.questiontwo;
 import java.util.Scanner;
 /**
+ * This is the class that runs the program. It asks the user for the repair
+ * details at runtime, creates a ComputerRepairReport object with those
+ * details, and then displays the report.
  *
  * @author Amahle Lisah Khumalo
  */
@@ -12,6 +11,7 @@ import java.util.Scanner;
 public class RunApplication {
 
     public static void main(String[] args) {
+        // Scanner object used to read user input from the keyboard
         Scanner input = new Scanner(System.in);
 
         // Get the computer repair details from the user
@@ -30,6 +30,7 @@ public class RunApplication {
         // Call the method to print the report
         report.printRepairReport();
 
+        // Close the Scanner since we no longer need to read input
         input.close();
     }
-}
+}//End of class
